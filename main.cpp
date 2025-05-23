@@ -3,7 +3,7 @@
 #include <Matrix.h>
 #include <WinApp.h>
 
-const char kWindowTitle[] = "LE2D_12_サクラバ_キラト_MT3_01_01";
+const char kWindowTitle[] = "LE2D_13_サトウ_ユイ_MT3_01_01";
 
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
